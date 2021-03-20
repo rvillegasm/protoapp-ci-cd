@@ -13,7 +13,7 @@
         <title>Resultado</title>
     </head>
     <body>
-        <div style="background-color: greenyellow;">
+        <div style="background-color: azure;">
             <h1>Resultado</h1>
             <p>El cuadrado de <%= numero%> es <%= cuadrado%></p>
             <p>Puede volver <a href="index.jsp">atrás</a> y hacer un nuevo cálculo.</p>
